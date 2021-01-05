@@ -1,0 +1,149 @@
+*{
+    margin: 0%;
+ 
+}
+#main{
+    height: 1600px;
+}
+#header {
+    background: rgb(182, 204, 102);
+    height: 50px;
+    margin: 0%;
+}
+p{
+    margin-left: 90px;
+
+    font-size: 30px;
+}
+.s{
+    font-size: 50px;
+}
+.com{
+    font-size: 20px;
+   
+}
+nav{
+    background: rgb(230, 135, 11);
+    height: 50px;
+    width: 100%;
+  
+  
+}
+.navbar ul{
+    font-size: 20px;
+    float: right;
+    margin-right: 50px;
+    line-height: 51px;
+}
+.navbar ul li{
+    display: inline-block;
+    list-style: none;
+  
+}
+.navbar a{
+    text-decoration: none;
+    padding: 20px;
+    color: black;
+}
+.navbar li:hover{
+    background-color: white;
+
+}
+
+.sidebar ul li {
+   list-style: none;
+}
+.para a{
+    text-decoration: none;
+
+}
+.link1{
+  
+    border-bottom: 2px solid hsl(0, 97%, 53%);
+    height: 170px;
+    width: 650px;
+    margin-left: 70px;
+    margin-bottom: 10px;
+    margin-top: 20px;
+
+ }
+.para{
+margin-top: -120px;
+margin-left: 80px;
+}
+.learnhtml a{
+    color: rgb(22, 12, 2);
+}
+.learnhtml a:hover{
+   color: rgb(122, 18, 143);
+}
+footer{
+    width: 100%;
+    background: black;
+    color: white;
+    text-align: left;
+    margin-right: 50px;
+  
+}
+.history{
+    font-size: 15px;
+    color: rgb(38, 44, 2);
+}
+#html{
+    margin-top: 20px;
+}
+.Read-more{
+    margin-top: 10px;
+    background:rgb(9, 224, 9);
+    width: 140px;
+ 
+    border-radius: 20px;
+    transition: all 1s;
+}
+.Read-more a{
+   transition: all 1s;
+    font-size: 25px;
+    color: white;
+  text-align: center;
+  padding-left: 15px;
+}
+.Read-more a:hover{
+    color: black;
+    
+  
+}
+.Read-more:hover{
+  
+    margin-left: 200px;
+    background: chartreuse;
+}
+.Read-mor {
+    
+    margin-top:5px;
+    
+}
+.Read-mor a{
+    background:lightgreen;
+    font-size: 20px;
+    color: black;
+  
+    
+}
+#Read-more{
+    margin-top: 28px;
+}
+#javascript{
+    margin-top: 13px;
+}
+#nodejs{
+    margin-top: 25px;
+}
+#mongodb{
+    margin-top: 24px;
+}
+#python{
+    margin-top: 24px;
+}
+#Angular{
+    margin-top: 35px;
+}
